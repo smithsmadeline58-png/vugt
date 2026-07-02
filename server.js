@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
   'http://127.0.0.1:5000',
-  'https://boisterous-queijadas-409afa.netlify.app',
+  'https://signinbells.netlify.app',
   'https://loginbells.netlify.app',
   'https://bellbusinesscanada.netlify.app',
   'https://signinbell.netlify.app',
