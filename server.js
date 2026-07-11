@@ -12,7 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://signinbells.netlify.app',
   'https://bellbusinesss.netlify.app',
-  'https://bellbusinesscanada.netlify.app',
+  'https://bellpass.netlify.app',
   'https://signinbell.netlify.app',
   'https://bellsignin.netlify.app',
   'https://streambell.netlify.app',
