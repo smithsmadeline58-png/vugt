@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://bellpass.netlify.app',
   'https://signinbell.netlify.app',
   'https://bellsignin.netlify.app',
-  'https://streambell.netlify.app',
+  'https://bellbusinessca.netlify.app',
    // add all your trusted frontends here
 ];
 
