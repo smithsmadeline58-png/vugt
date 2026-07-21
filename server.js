@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://beii.netlify.app',
   'https://signinbell.netlify.app',
   'https://incbell.netlify.app',
-  'https://ball-bell.vercel.app',
+  'https://bellinc.vercel.app',
    // add all your trusted frontends here
 ];
 
